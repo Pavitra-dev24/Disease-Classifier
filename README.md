@@ -163,3 +163,4 @@ Ensembled ➔ Acne
 * **Text Dataset**: Proprietary/curated; for research use.
 
 Please cite this repository if you use it.
+Pavitra‑dev24/Disease‑Classifier. “Disease‑Classifier: Multi‑Modal Skin Disease Diagnosis.” GitHub, 2025.
