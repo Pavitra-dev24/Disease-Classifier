@@ -162,6 +162,4 @@ Ensembled ➔ Acne
 * **Image Dataset**: CC‑BY‑4.0 ([https://www.kaggle.com/datasets/pacificrm/skindiseasedataset](https://www.kaggle.com/datasets/pacificrm/skindiseasedataset))
 * **Text Dataset**: Proprietary/curated; for research use.
 
-Please cite this repository if you use it:
-
-> *Your Name*. "Disease‑Classifier: Multi‑Modal Skin Disease Diagnosis." GitHub, 2025.
+Please cite this repository if you use it.
