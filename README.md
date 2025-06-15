@@ -132,7 +132,7 @@ Ensembled ➔ Acne
 
 ## 📜 License & Citation
 
-* **Image Dataset**: CC0: Public Domain ([https://www.kaggle.com/datasets/pacificrm/skindiseasedataset](https://www.kaggle.com/datasets/pacificrm/skindiseasedataset))
+* **Image Dataset**: licensed under CC0 – Public Domain ([https://www.kaggle.com/datasets/pacificrm/skindiseasedataset](https://www.kaggle.com/datasets/pacificrm/skindiseasedataset))
 * **Text Dataset**: Proprietary/curated; for research use.
 
 Please cite this repository if you use it.
