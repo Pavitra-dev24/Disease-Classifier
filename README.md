@@ -40,22 +40,6 @@ Disease-Classifier/
 
 ---
 
-## 📦 Requirements
-
-* Python 3.8+
-* PyTorch 1.10+
-* torchvision 0.11+
-* transformers 4.5+
-* scikit-learn 0.24+
-* matplotlib 3.4+
-
-Install via:
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## 📥 Data Preparation
 
