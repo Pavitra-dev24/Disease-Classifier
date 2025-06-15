@@ -49,17 +49,6 @@ This project uses the **SkinDisease** dataset from Kaggle (22 skin conditions):
 
 > [https://www.kaggle.com/datasets/pacificrm/skindiseasedataset](https://www.kaggle.com/datasets/pacificrm/skindiseasedataset)
 
-To download:
-
-```bash
-# 1. Install & configure Kaggle API
-pip install kaggle
-export KAGGLE_USERNAME="<your_username>"
-export KAGGLE_KEY="<your_api_key>"
-
-# 2. Download & unzip into `data/image`
-kaggle datasets download -d pacificrm/skindiseasedataset -p data/image --unzip
-```
 
 The directory should mirror:
 
